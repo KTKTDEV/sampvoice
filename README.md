@@ -3,6 +3,11 @@
 ---------------------------------
 **SAMPVOICE** - is a Software Development Kit (SDK) for implementing voice communication systems in the Pawn language for SA:MP servers.
 
+####  Feature Added ( Fork Version )
+----------------------------------
+* Add Thai Language ( Path Font Windows ) 
+* Fix Unblocked Player Voice  ( Crash )
+
 #### Version support
 ----------------------------------
 * Client: SA:MP 0.3.7 (R1, R3)
